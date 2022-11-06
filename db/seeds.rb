@@ -29,6 +29,7 @@ end
       user_id: user.id
     )
   end
+  
 end
 
 puts "🌱 Done seeding!"
